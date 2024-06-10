@@ -1,2 +1,3 @@
 Aquí viene tu diario
 Introduce aquí la entrada de tu diario
+Introduce aquí el fin del diario
